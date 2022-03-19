@@ -1,0 +1,261 @@
+{
+  "version": "3.56.26219.0",
+  "course_id": "DOC_110_1_Lesson",
+  "title": "Introduction to Training",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Training Standards"
+    },
+    {
+      "title": "Summary"
+    },
+    {
+      "title": "Knowledge Check"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5mpvUpgU5qo",
+      "title": "Introduction to Training",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5ZrkIf2yI7d",
+      "title": "Introduction",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5cYRKLlXwTK",
+      "title": "Lesson Objectives",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6KvUbT9oR2p",
+      "title": "Training Standards",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5xQindhyB1D",
+      "title": "Importance of Objectives",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6bBGBpdQGep",
+      "title": "Components",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6AjDhVIwSFs",
+      "title": "Verb Choice",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6nlFFre21iw",
+      "title": "Bloom's Taxonomy Intro",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6YvRKNTkHqP",
+      "title": "Bloom's Taxonomy Verbs",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "6QnYdgocNcM",
+      "title": "Objective Builder",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "6MAvZKzsk5L",
+      "title": "Objective Builder Instructions",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "5WuVmULL5XB",
+      "title": "Objective Builder: Step 1",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "6QZlAiTuM8l",
+      "title": "Create",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "6WAX08c5rPb",
+      "title": "Evaluate",
+      "scene_index": "2.11"
+    },
+    {
+      "id": "6QYtaJpcJWH",
+      "title": "Analyze",
+      "scene_index": "2.12"
+    },
+    {
+      "id": "5yyef68RkK2",
+      "title": "Apply",
+      "scene_index": "2.13"
+    },
+    {
+      "id": "6qMdyde8jRr",
+      "title": "Understand",
+      "scene_index": "2.14"
+    },
+    {
+      "id": "5bCHXUts9Xn",
+      "title": "Remember",
+      "scene_index": "2.15"
+    },
+    {
+      "id": "6ra6sGAHVIw",
+      "title": "Objective Builder: Step 3",
+      "scene_index": "2.16"
+    },
+    {
+      "id": "6UVCw5ED1sb",
+      "title": "Final Objective",
+      "scene_index": "2.17"
+    },
+    {
+      "id": "6OlaH17gIOu",
+      "title": "How will I know?",
+      "scene_index": "2.18"
+    },
+    {
+      "id": "6DZyOuBvVkF",
+      "title": "Verb Choice Revisited",
+      "scene_index": "2.19"
+    },
+    {
+      "id": "6mg9YaVzdb0",
+      "title": "Assessment Flashcards",
+      "scene_index": "2.20"
+    },
+    {
+      "id": "6HCuCHi4ir1",
+      "title": "Measurement Summary",
+      "scene_index": "2.21"
+    },
+    {
+      "id": "5cD4P3fdoUC",
+      "title": "Targeted",
+      "scene_index": "2.22"
+    },
+    {
+      "id": "67yKZGblUhk",
+      "title": "Let's Try It Out",
+      "scene_index": "2.23"
+    },
+    {
+      "id": "6TjHOJ4pj7M",
+      "title": "Let's Try It Out",
+      "scene_index": "2.24"
+    },
+    {
+      "id": "6990teuL9RV",
+      "title": "Break up",
+      "scene_index": "2.25"
+    },
+    {
+      "id": "66GFHbudE15",
+      "title": "Chaining",
+      "scene_index": "2.26"
+    },
+    {
+      "id": "5rtZQ33nyZd",
+      "title": "Creating Videos",
+      "scene_index": "2.27"
+    },
+    {
+      "id": "5WOuE01p6ue",
+      "title": "Creating Videos",
+      "scene_index": "2.28"
+    },
+    {
+      "id": "5zkiZUGKDZB",
+      "title": "Tie to Objectives",
+      "scene_index": "2.29"
+    },
+    {
+      "id": "66FlpBkGUmg",
+      "title": "Knowledge Checks",
+      "scene_index": "2.30"
+    },
+    {
+      "id": "5ecppJqv5qf",
+      "title": "Examples of Engagement",
+      "scene_index": "2.31"
+    },
+    {
+      "id": "5ZoaGqujNsx",
+      "title": "Applied Scenario",
+      "scene_index": "2.32"
+    },
+    {
+      "id": "5YCNtXHbWad",
+      "title": "Knowledge Check",
+      "scene_index": "2.33"
+    },
+    {
+      "id": "6nw6okg0uZ1",
+      "title": "Reflection Question",
+      "scene_index": "2.34"
+    },
+    {
+      "id": "628ATYG6HZy",
+      "title": "Interactive Page",
+      "scene_index": "2.35"
+    },
+    {
+      "id": "66jNjYUdwf2",
+      "title": "Reflection Question",
+      "scene_index": "2.36"
+    },
+    {
+      "id": "6BMtNPTMoVL",
+      "title": "Nice Answer!",
+      "scene_index": "2.37"
+    },
+    {
+      "id": "6bqiK3v6Rk7",
+      "title": "Lesson Summary",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6W1xaPyYOvO",
+      "title": "Lesson Complete!",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5cGCV2PHm9K",
+      "title": "Quiz Intro",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "69t5UcqcVSy",
+      "title": "Multiple Choice",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5nFT4Hv4QNM",
+      "title": "Check All",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6dmrkGsSYnV",
+      "title": "Multiple Choice",
+      "scene_index": "4.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 499
+  },
+  "stage": {
+    "width": 720,
+    "height": 405
+  }
+}
