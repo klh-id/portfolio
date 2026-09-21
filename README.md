@@ -54,9 +54,9 @@ Designed a modular enablement model for a rapidly evolving AI product. The progr
 ## Experience
 
 - **OpenAI — Learning Experience & Curriculum Lead**  
-  July 2026–Present
+  June 2026–Present
 - **GitLab — Senior Education Architect**  
-  July 2022–July 2026
+  July 2022–June 2026
 - **PLEXSYS Interface Products — Supervisor, Technical Instructional Designers**  
   December 2020–July 2022
 - **Higher Education — Instructional Designer**  
