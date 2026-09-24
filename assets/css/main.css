@@ -1,6 +1,6 @@
 /* Kim Hokanson — a small, static portfolio. */
-:root { color-scheme:dark; --bg:#101216; --surface:#191d25; --text:#f1f4fa; --muted:#a0aaba; --line:#303846; --accent:#79b8ff; --accent-ink:#091321; --header:rgba(16,18,22,.95); --max:1160px; }
-:root[data-theme="light"] { color-scheme:light; --bg:#f5f7fb; --surface:#ffffff; --text:#172234; --muted:#536178; --line:#ccd5e2; --accent:#2167bb; --accent-ink:#ffffff; --header:rgba(245,247,251,.96); }
+:root { color-scheme:dark; --bg:#101216; --surface:#191d25; --text:#f1f4fa; --muted:#a0aaba; --line:#303846; --accent:#56bbdf; --accent-ink:#091321; --header:rgba(16,18,22,.95); --max:1160px; }
+:root[data-theme="light"] { color-scheme:light; --bg:#f5f7fb; --surface:#ffffff; --text:#172234; --muted:#536178; --line:#ccd5e2; --accent:#56bbdf; --accent-ink:#091321; --header:rgba(245,247,251,.96); }
 * { box-sizing:border-box; }
 html { scroll-behavior:smooth; scroll-padding-top:100px; }
 body { margin:0; background:var(--bg); color:var(--text); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; }
@@ -511,3 +511,24 @@ html.lightbox-open { overflow:hidden; }
  .github-feature { row-gap:8px; }
  .github-feature .mona-pixel { margin-inline:auto; }
 }
+
+/* Resume accent, scoped to the homepage only. */
+:root.portfolio-home { --accent:#56bbdf; --accent-ink:#091321; }
+.portfolio-home .hero h1 span { background:none; color:var(--accent); }
+.portfolio-home .hero-actions .button:not(.button-secondary) { background:var(--accent); color:var(--accent-ink); border-color:var(--accent); box-shadow:0 4px 22px #56bbdf22; }
+.portfolio-home .section-heading h2::before,.portfolio-home .result-dot { background:var(--accent); }
+.portfolio-home .monogram { background:#56bbdf14; border-color:#56bbdf66; }
+.portfolio-home .work-card:hover { border-color:var(--accent); }
+
+/* Match the homepage monogram while retaining the GitHub page palette. */
+.why-github-page .monogram { color:#56bbdf; background:#56bbdf14; border-color:#56bbdf66; }
+
+/* Shared resume accent across the portfolio. */
+.monogram { color:var(--accent); background:#56bbdf14; border-color:#56bbdf66; }
+.hero h1 span { background:none; color:var(--accent); }
+.button:not(.button-secondary):not(.module-button) { background:var(--accent); color:var(--accent-ink); border-color:var(--accent); box-shadow:0 4px 22px #56bbdf22; }
+.section-heading h2::before,.result-dot { background:var(--accent); }
+.work-card:hover { border-color:var(--accent); }
+.github-feature { background:linear-gradient(115deg,var(--surface),var(--bg)) padding-box,linear-gradient(120deg,#56bbdf,#aa8bfa,#50c9d5) border-box; }
+.github-feature::before { background:linear-gradient(120deg,#56bbdf0a,#aa8bfa13,#50c9d50a); }
+.github-feature .module-button { background:linear-gradient(110deg,#56bbdf 0%,#aaa5ff 55%,#d2a1f5 100%); }
